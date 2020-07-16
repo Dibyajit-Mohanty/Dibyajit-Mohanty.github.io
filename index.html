@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf=8">
+    <title>Personal Website</title>
+    <link rel="stylesheet" type="text/css" href="css/home.css" />
+    <link rel="shortcut icon" type="image/jpg" href="Images/Dibya.jpg">
+    <script src="../javascript/Social.js"></script>
+</head>
+
+<body>
+    <header>
+        <!-- <div class="logo">Kiyo.dib_takamine</div> -->
+        <a href="index.html" class="logo">Kiyo.dib_takamine</a>
+        <nav class="active">
+            <ul>
+                <li><a href="#" class="active">HOME</a></li>
+                <li><a href="#about">ABOUT</a></li>
+                <li><a href="#resume">RESUME</a></li>
+                <li><a href="#contact">CONTACT</a></li>
+            </ul>
+        </nav>
+        <div class="menu-toggle">
+            <img src="../Images/menu.svg" alt="nav_menu">
+        </div>
+
+        </div>
+    </header>
+
+    <section>
+        <!----------THIS CONTENT THE WHOLE BODY CONTENT IN SHORT DIVISION------------------>
+        <div class="imgbox">
+            <img src="Images/Final4.svg">
+
+        </div>
+
+        <div class="about-container" id="about">
+            <img src="Images/dib.jpg" class="model" alt="model">
+
+            <div class="about-text">
+                <p>About Me</p>>
+                <p>Developer & Designer</p>
+                <p>Hello,My name is Dibyajit Mohnaty. I am a Developer and UI_Designer.I am able to handle multiple tasks on a daily basis.
+                </p>
+                <p>I use a creative approach to problem solve & I am always coming up with innovative ideas.</p>
+                <button onclick="window.location.href='https://drive.google.com/file/d/1cNaMZfhfkySSXtF2SnLN7Pz7ZdVVyh6O/view?usp=sharing';">Download-CV</button>
+
+            </div>
+        </div>
+    </section>
+
+
+    <!--------Project------------------->
+    <div class="projects" id="resume">
+        <div class="project-text">
+            <p>RESUME</p>
+            <p>A brief summary of personal and professional experiences, skills & education. </p>
+            <p>Hello,My name is Dibyajit Mohnaty. I am a Developer and UI_Designer.I am able to handle multiple tasks on a daily basis.</p>
+        </div>
+        <!---Box-->
+        <div class="box-container">
+            <!---1-->
+            <div class="box-1">
+                <!-- <span>I</span> -->
+                <p class="heading">WORKS</p>
+                <p class="details">Visit to my Github link & have a look on my projects.</p>
+                <button onclick="window.location.href='https://github.com/Dibyajit-Mohanty';">Git-Hub</button>
+            </div>
+            <!---2-->
+            <div class="box-2">
+                <!-- <span>II</span> -->
+                <p>SKILLS</p>
+                <p> C , C++ , HTML , CSS , BOOTSTRAP , JAVASCRIPT , JAVA , PYTHON.</p>
+<!--                 <button onclick="window.location.href='https://drive.google.com/file/d/1cNaMZfhfkySSXtF2SnLN7Pz7ZdVVyh6O/view?usp=sharing';">Download-CV</button> -->
+            </div>
+            <!---3-->
+            <div class="box-3">
+                <!-- <span>III</span> -->
+                <p>CONTACT</p>
+                <p>Get in touch with me any time.      Email :- mohantydibyajit41@gmail.com</p>
+                <!-- <button>Call</button> -->
+            </div>
+
+        </div>
+    </div>
+
+    <!-----Contact-me-->
+    <div class="contact-me" id="contact">
+        <p>If You Have Any Project In Your Mind.</p>
+        <button>Contact Me</button>
+    </div>
+    <!--Footer-->
+    <footer>
+        <p>Hope you like !</p>
+        <p>Get visit to my Social Networking sites.</p>
+
+        <!---Social-->
+        <div class="social-icons">
+            <a href="https://www.facebook.com/dibyajit.mohanty.9/"><i class="fab fa-facebook"></i></a>
+            <a href="https://www.instagram.com/kiyo.dib_takamine/"><i class="fab fa-instagram"></i></a>
+            <a href="https://www.linkedin.com/in/dibyajit-mohanty-b2568511a/"><i class="fab fa-linkedin-in"></i></a>
+            <a href="https://www.youtube.com/channel/UCfbV7yapdWkZ2qQ_E9KDT1Q"><i class="fab fa-youtube"></i></a>
+
+        </div>
+        <!---Copyright-->
+        <p class="copyright">© 2020||DibyajitM.</p>>
+    </footer>
+    <!--Attached-Social-media-->
+    <div class="a-social-b">
+        <a href="https://www.facebook.com/dibyajit.mohanty.9/"><i class="fab fa-facebook"></i></a>
+        <a href="https://www.instagram.com/kiyo.dib_takamine/"><i class="fab fa-instagram"></i></a>
+        <a href="https://www.linkedin.com/in/dibyajit-mohanty-b2568511a/"><i class="fab fa-linkedin-in"></i></a>
+        <a href="https://www.youtube.com/channel/UCfbV7yapdWkZ2qQ_E9KDT1Q"><i class="fab fa-youtube"></i></a>
+
+
+    </div>
+
+    <script src="https://code.jquery.com/jquery-3.5.1.js"></script>
+    <script type="text/javascript">
+        $(document).ready(function() {
+            $('.menu-toggle').click(function() {
+                $('nav').toggleClass('active')
+            })
+        })
+    </script>
+
+</body>
+
+</html>

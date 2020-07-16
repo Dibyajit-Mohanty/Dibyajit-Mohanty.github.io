@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="29" height="22" viewBox="0 0 29 22">
+  <g id="menu" transform="translate(-1270 -63)">
+    <g id="Nav_Drawer" transform="translate(-567.389 -30.604)">
+      <g id="Rectangle_4" data-name="Rectangle 4" transform="translate(1837.389 93.604)" fill="#fdb844" stroke="#000" stroke-width="1">
+        <rect width="25" height="6" rx="3" stroke="none"/>
+        <rect x="0.5" y="0.5" width="24" height="5" rx="2.5" fill="none"/>
+      </g>
+      <g id="Rectangle_5" data-name="Rectangle 5" transform="translate(1837.389 93.604)" fill="#fdb844" stroke="#000" stroke-width="1">
+        <rect width="25" height="6" rx="3" stroke="none"/>
+        <rect x="0.5" y="0.5" width="24" height="5" rx="2.5" fill="none"/>
+      </g>
+      <g id="Rectangle_6" data-name="Rectangle 6" transform="translate(1837.389 93.604)" fill="#fdb844" stroke="#000" stroke-width="1">
+        <rect width="29" height="6" rx="3" stroke="none"/>
+        <rect x="0.5" y="0.5" width="28" height="5" rx="2.5" fill="none"/>
+      </g>
+    </g>
+    <g id="Nav_Drawer-2" data-name="Nav_Drawer" transform="translate(-567.389 -22.604)">
+      <g id="Rectangle_4-2" data-name="Rectangle 4" transform="translate(1837.389 93.604)" fill="#fdb844" stroke="#000" stroke-width="1">
+        <rect width="25" height="6" rx="3" stroke="none"/>
+        <rect x="0.5" y="0.5" width="24" height="5" rx="2.5" fill="none"/>
+      </g>
+      <g id="Rectangle_5-2" data-name="Rectangle 5" transform="translate(1837.389 93.604)" fill="#fdb844" stroke="#000" stroke-width="1">
+        <rect width="25" height="6" rx="3" stroke="none"/>
+        <rect x="0.5" y="0.5" width="24" height="5" rx="2.5" fill="none"/>
+      </g>
+      <g id="Rectangle_6-2" data-name="Rectangle 6" transform="translate(1837.389 93.604)" fill="#fdb844" stroke="#000" stroke-width="1">
+        <rect width="29" height="6" rx="3" stroke="none"/>
+        <rect x="0.5" y="0.5" width="28" height="5" rx="2.5" fill="none"/>
+      </g>
+    </g>
+    <g id="Nav_Drawer-3" data-name="Nav_Drawer" transform="translate(-567.389 -14.604)">
+      <g id="Rectangle_4-3" data-name="Rectangle 4" transform="translate(1837.389 93.604)" fill="#fdb844" stroke="#000" stroke-width="1">
+        <rect width="25" height="6" rx="3" stroke="none"/>
+        <rect x="0.5" y="0.5" width="24" height="5" rx="2.5" fill="none"/>
+      </g>
+      <g id="Rectangle_5-3" data-name="Rectangle 5" transform="translate(1837.389 93.604)" fill="#fdb844" stroke="#000" stroke-width="1">
+        <rect width="25" height="6" rx="3" stroke="none"/>
+        <rect x="0.5" y="0.5" width="24" height="5" rx="2.5" fill="none"/>
+      </g>
+      <g id="Rectangle_6-3" data-name="Rectangle 6" transform="translate(1837.389 93.604)" fill="#fdb844" stroke="#000" stroke-width="1">
+        <rect width="29" height="6" rx="3" stroke="none"/>
+        <rect x="0.5" y="0.5" width="28" height="5" rx="2.5" fill="none"/>
+      </g>
+    </g>
+  </g>
+</svg>
