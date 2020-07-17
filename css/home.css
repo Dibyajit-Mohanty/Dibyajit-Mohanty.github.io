@@ -385,7 +385,7 @@ footer p:nth-child(2) {
     color: #2b2b2b;
     font-size: 20px;
 }
-
+/* 
 @media (max-width: 900px) {
     header {
         padding: 0 20px;
@@ -436,4 +436,4 @@ footer p:nth-child(2) {
     .about-text {
         width: 220px;
     }
-}
+} */
