@@ -87,6 +87,8 @@ section {
     margin-top: 2px;
 }
 
+
+
 .imgbox {
     display: flex;
 }
@@ -94,7 +96,7 @@ section {
 .imgbox img {
     width: 100%;
     height: auto;
-    background-repeat: no-repeat;
+   
     background-size: contain;
 }
 
@@ -148,9 +150,15 @@ section {
 .about-text p:nth-child(4) {
     color: #FFFF;
     font-family: "Lato";
-    font-size: 16px;
+    font-size: 15px;
 }
+.about-text p:nth-child(5){
+    
+    color: #FFFF;
+    font-family: "Lato";
+    font-size: 15px;
 
+}
 .about-text button {
     width: 120px;
     height: 40px;
@@ -289,7 +297,7 @@ section {
     width: 200px;
     height: 40px;
     background-color: #2D2926FF;
-    color: #E94B3CFF;
+    color: #ffffff;
     outline: none;
     border: #FDB844;
     font-size: 14px;
